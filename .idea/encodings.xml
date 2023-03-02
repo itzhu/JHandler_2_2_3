@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exec/module-info.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/me/itz/imgshow/AppConfig.kt" charset="UTF-8" />
+  </component>
+</project>
