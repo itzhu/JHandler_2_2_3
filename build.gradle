@@ -48,3 +48,10 @@ test {
     useJUnitPlatform()
 }
 
+jar {
+    manifest {
+        attributes 'Built-By': 'itz',
+                'Build-Jdk': System.getProperty('java.version')
+    }
+}
+
